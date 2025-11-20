@@ -1,0 +1,21 @@
+{
+  "name": "BudgetBox - Offline-First Personal Budgeting",
+  "short_name": "BudgetBox",
+  "description": "Your offline-first personal budgeting app that never loses data. Track expenses, analyze spending, and manage finances with beautiful insights.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#2563eb",
+  "categories": ["finance", "productivity", "business"],
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "lang": "en",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
