@@ -246,16 +246,4 @@ vercel --prod
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
-
-- **Recharts** for beautiful data visualization
-- **Tailwind CSS** for rapid UI development
-- **Zustand** for simple state management
-- **LocalForage** for robust offline storage
-- **Lucide** for consistent iconography
-
----
-
-**Built with ❤️ for the internship selection task**
-
 *Demo Login: hire-me@anshumat.org | Password: HireMe@2025!*

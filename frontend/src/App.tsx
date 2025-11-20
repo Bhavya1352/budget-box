@@ -95,7 +95,6 @@ function App() {
                   <h3 className="text-lg font-bold font-display text-gradient">BudgetBox</h3>
                 </div>
                 <p className="text-sm text-slate-600 mb-2">Offline-First Personal Budgeting App</p>
-                <p className="text-xs text-slate-500">Built with React, TypeScript, Tailwind CSS, Zustand & IndexedDB</p>
                 <div className="mt-4 pt-4 border-t border-slate-200">
                   <p className="text-xs text-slate-400">Demo Login: hire-me@anshumat.org | Password: HireMe@2025!</p>
                 </div>

@@ -2,6 +2,7 @@
   "name": "budgetbox",
   "private": true,
   "version": "1.0.0",
+  "description": "Offline-First Personal Budgeting App",
   "type": "module",
   "scripts": {
     "dev": "vite",
